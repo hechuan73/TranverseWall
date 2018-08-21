@@ -119,7 +119,7 @@
         sudo apt-get install shadowsocks-qt5
         ```
         
-    在命令行执行上面的三行命令，注意：仅支持Ubuntu 14.04或更高版本。如果不是Ubutun或者其他的系统，详细的安装方式请参考 https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97，因为shadowsocks-qt5是跨平台的版本，所以安装这个也不要惊讶。如果安装没有问题的话，在应用程序中可以找到shadowsocks-qt5。
+    在命令行执行上面的三行命令，注意：仅支持Ubuntu 14.04或更高版本。如果不是Ubutun或者其他的系统，详细的安装方式请参考 [安装方式](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)，因为shadowsocks-qt5是跨平台的版本，所以安装这个也不要惊讶。如果安装没有问题的话，在应用程序中可以找到shadowsocks-qt5。
 
     打开后，在配置的时候，手动方式添加一个新的连接，输入服务端对应的信息，本地地址何端口可以使用127.0.0.1和1080，日志级别和自动化可以不勾选。配置好后，重启软件，使配置生效。
 
