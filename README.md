@@ -86,7 +86,7 @@
       ssserver  -c ./shadowsocks_server.json
       ```
       
-      长连接：
+      后台启动：
       ```
       ssserver  -c ./shadowsocks_server.json -d start
       ```
